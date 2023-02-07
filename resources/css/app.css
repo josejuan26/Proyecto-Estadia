@@ -1,0 +1,11 @@
+@import 'bootstrap/scss/bootstrap';
+
+.card-img-top {
+    width: 50%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+.carouselExample{
+    
+}
